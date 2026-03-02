@@ -5,8 +5,11 @@ This repository contains the end-to-end manufacturing schedule for a luxury cust
 ## Key Features Demonstrated
 
 **Critical Path Management:** Actively tracking the critical path, which runs heavily through the finishing phase.
+
 **Lead Time Tracking:** Factoring in long-lead transit times for specialty materials like custom Italian leather hides.
+
 **Cure Periods:** Accounting for necessary lag times, such as the sealer curing process and final chemical topcoat cures.
+
 **Cross-Functional Coordination:** Scheduling dependencies across Engineering, CNC Machining, Assembly, and Finishing departments.
 
 
